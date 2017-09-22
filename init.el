@@ -57,8 +57,7 @@
     smex
 
     ;;helm whith emacs-async
-    emacs-async
-    
+    async 
     helm
 
 
