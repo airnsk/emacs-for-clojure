@@ -56,6 +56,13 @@
     ;; http://www.emacswiki.org/emacs/Smex
     smex
 
+    ;;helm whith emacs-async
+    emacs-async
+    
+    helm
+
+
+    
     ;; project navigation
     projectile
 
@@ -130,3 +137,4 @@
 ;; Langauage-specific
 (load "setup-clojure.el")
 (load "setup-js.el")
+(load "mysetup.el")
