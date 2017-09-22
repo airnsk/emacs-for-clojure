@@ -60,7 +60,8 @@
     async 
     helm
 
-
+    ;;neotree
+    neotree
     
     ;; project navigation
     projectile
