@@ -138,3 +138,4 @@
 (load "setup-clojure.el")
 (load "setup-js.el")
 (load "mysetup.el")
+(load "firacode.el")
